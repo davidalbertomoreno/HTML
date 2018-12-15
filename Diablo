@@ -1,0 +1,37 @@
+
+<style>
+@font-face {
+  font-family: 'Exocet';
+  src: local('Exocet'),
+       url(Exocet.woff2) format('woff2');
+  font-size 200;
+}
+
+.Exocet {
+    font-family: 'Exocet';
+}
+</style> 
+
+<head>
+
+<style type="text/css"> 
+body{ 
+background: C:\Users\CapacitaPlural01\Desktop\Diablo.jpg); 
+background-attachment: fixed; 
+background-repeat: no-repeat; 
+background-position: 50% 0%; 
+background-color: transparent;
+}
+</style>
+
+<body background="C:\Users\CapacitaPlural01\Desktop\Diablo.jpg" style="text-align:center">
+
+</br>
+<h1 align="center" style="color:#E40A0A;font-size:48px;" class="Exocet">Bienvenido a la página del diablo</h1>
+
+</head>
+
+</body>
+</html>
+
+
